@@ -9,7 +9,7 @@ It seems there are some very good problems at HackerRank.
 If interested in this problem, my approach and comments, 
 please read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/17/roads-and-libraries/
 
 Keep in mind that the best way to learn is to read and experiemnt.
 
